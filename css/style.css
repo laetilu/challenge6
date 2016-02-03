@@ -1,0 +1,45 @@
+body {
+  /*background-image: url(/image/fond.png);*/
+}
+header {
+background-image: url(/image/header.png);
+}
+
+h1 {
+  text-align: center;
+  color:white;
+}
+
+.navbar .navbar-info {
+  background-color: red;
+}
+.img-header{
+  text-align: center;
+  /*padding:10px;*/
+  background-color: white;
+}
+.opacite{
+  opacity: 70;
+}
+.bold {
+  font-weight: bold;
+}
+.sidebar2{
+  list-style-type: none;
+}
+.sidebar2 a{
+  text-decoration: none;
+  color:black;
+}
+.basdepage {
+  background-image: url(/image/bas-de-page.png);
+  height: 600px;
+}
+.placement {
+  float: left;
+}
+
+footer {
+  text-align: center;
+  background-image: url(image/footer.png);
+}
